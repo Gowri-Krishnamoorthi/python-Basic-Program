@@ -1,0 +1,12 @@
+a=10
+print(a)
+print(type(a))
+a="Kodnest"
+print(a)
+print(type(a))
+a=True
+print(a)
+print(type(a))
+a=3+4j
+print(a)
+print(type(a))
